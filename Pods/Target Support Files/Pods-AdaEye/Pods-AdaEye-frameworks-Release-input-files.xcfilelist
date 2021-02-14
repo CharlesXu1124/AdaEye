@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-AdaEye/Pods-AdaEye-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework
+${BUILT_PRODUCTS_DIR}/JKVValue/JKVValue.framework
+${BUILT_PRODUCTS_DIR}/RMQClient/RMQClient.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

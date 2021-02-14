@@ -1,0 +1,6 @@
+framework module Pods_AdaEye {
+  umbrella header "Pods-AdaEye-umbrella.h"
+
+  export *
+  module * { export * }
+}

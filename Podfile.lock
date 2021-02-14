@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.0)
+  - CocoaAsyncSocket (7.6.5)
+  - JKVValue (1.3.3)
+  - RMQClient (0.11.0):
+    - CocoaAsyncSocket (~> 7.6)
+    - JKVValue (~> 1.3)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - RMQClient (~> 0.11.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaAsyncSocket
+    - JKVValue
+    - RMQClient
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  JKVValue: d7941071b1cf9ba35c194fd40bcf4c4d9b5462e9
+  RMQClient: c77b0e715dbfcdfe81b304aa4f4e82b3d7ef6ff5
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 64feb7f0309365f8156b5c4710623112aa336043
+
+COCOAPODS: 1.10.0
